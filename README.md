@@ -1,4 +1,6 @@
 # Fastreset-2.0.vpk-by-SilicaandPina
+This can be removed, if this is copyrighted
+Copyright 2021 Vita helper or smthing
 Credit to SilicaandPina
 
 A tool to make restoring your PSVITA faster
